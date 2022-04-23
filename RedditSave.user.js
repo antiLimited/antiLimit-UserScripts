@@ -9,8 +9,8 @@
 // ==/UserScript==
 
 document.onkeyup = function(e) {
-  if (e.altKey && e.which == 83) {
-    alert("Forwarding you to redditsave.com");
+  if (e.which == 45) {
+    //alert("Forwarding you to redditsave.com");
     window.location.href = `https://redditsave.com/info?url=${window.location.href}`
   }
 };
