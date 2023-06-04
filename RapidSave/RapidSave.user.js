@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Video Save - reddit.com
+// @name        RapidSave - reddit.com
 // @namespace   Violentmonkey Scripts
 // @match       https://www.reddit.com/*
 // @grant       none
 // @version     1.1
 // @author      antiLimit
-// @description 4/21/2022, 11:49:43 AM
+// @description 5/3/2023, 10:33:43 PM
 // ==/UserScript==
 
 document.onkeyup = function(e) {
