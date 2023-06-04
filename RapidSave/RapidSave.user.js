@@ -10,7 +10,8 @@
 
 document.onkeyup = function(e) {
   if (e.which == 45) {
-    //alert("Forwarding you to rapidsave.com");
-    window.location.href = `https://rapidsave.com/info?url=${window.location.href}`
+    // alert("Forwarding you to rapidsave.com");
+    // window.location.href = `https://rapidsave.com/info?url=${window.location.href}`
+    window.open(`https://rapidsave.com/info?url=${window.location.href}`,`_blank`);
   }
 };
