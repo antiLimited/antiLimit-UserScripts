@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.reddit.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      antiLimit
 // @description 4/21/2022, 11:49:43 AM
 // ==/UserScript==
